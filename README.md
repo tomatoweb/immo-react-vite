@@ -7,5 +7,3 @@ install:    npm i
 and/or:     npm i vite
 
 run: npm run dev
-
-http://localhost:5173/
